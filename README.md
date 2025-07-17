@@ -18,4 +18,4 @@ Theory: -->Program-1: This program demonstrates various bitwise operations in C+
       Bitwise AND (&) + NOT (~) → Resets a bit to 0.
 
 
-Conclusion: Hence, we used the Bitwise Operators for performing 
+Conclusion: Hence, we performed the Bitwise Operations on inputted numbers and we have set and reset the specified digits of a binary number. 
