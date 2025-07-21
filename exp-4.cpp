@@ -54,3 +54,22 @@ int main() {
 
     return 0;
 }
+
+
+/*==========OUTPUTS==========
+-->Program-1:
+Bitwise AND:2
+Bitwise OR:7
+Bitwise NOT_a:-3
+Bitwise NOT_b:-8
+Bitwise XOR:5
+Left Shift_a:32
+Right Shift_a:0
+Left Shift_b:112
+Right Shift_b:0
+
+-->Program-2:
+Enter bit position to be set: 2
+Set_output:12
+Enter bit position to be reset: 3
+Reset_output:4*/
